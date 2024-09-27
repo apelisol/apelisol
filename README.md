@@ -91,7 +91,7 @@ If you have any questions, feel free to reach out at **info@apelisolutions.com**
 
 ## 🌟 Watch Our Live Demos
 
-[![Watch the demo](https://via.placeholder.com/600x200?text=Watch+Our+Live+Demo!)](https://www.youtube.com/watch?v=Kx4y9c7w2JQ)
+[![Watch the demo](https://www.youtube.com/watch?v=Kx4y9c7w2JQ)](https://www.youtube.com/watch?v=Kx4y9c7w2JQ)
 
 Click the image above to view our live demo!
 
