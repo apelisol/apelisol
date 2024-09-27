@@ -12,11 +12,11 @@ Welcome to the official repository of **Apeli Solutions**! We are a team of inno
 
 | **Project Name**      | **Description**                                                                 | **Status**        | **Assigned To**      | **Deadline**     |
 |-----------------------|---------------------------------------------------------------------------------|-------------------|----------------------|------------------|
-| **Car Rental System**  | A web-based platform to streamline car rentals, including fleet management.      | ![Status: Completed](https://via.placeholder.com/15/28A745/000000?text=+) Completed | John Doe             | Sept 15, 2024    |
-| **E-commerce Website** | Building a modern, responsive ecommerce site for selling shoes.                  | ![Status: In Progress](https://via.placeholder.com/15/DC3545/000000?text=+) In Progress | Jane Smith, Team     | Oct 10, 2024     |
+| **Car Rental System**  | A web-based platform to streamline car rentals, including fleet management.      | ![Status: Completed](https://via.placeholder.com/15/28A745/000000?text=+) Completed | Henry Otieno             | Sept 15, 2024    |
+| **E-commerce Website** | Building a modern, responsive ecommerce site for selling shoes.                  | ![Status: In Progress](https://via.placeholder.com/15/DC3545/000000?text=+) In Progress | Emmaculate Emali, Team     | Oct 10, 2024     |
 | **CRM System**         | Developing a customer relationship management tool for internal use.             | ![Status: Pending](https://via.placeholder.com/15/FFC107/000000?text=+) Pending | Mike Johnson         | Nov 5, 2024      |
-| **Mobile App**         | Mobile app for Apeli Solutions clients to manage their projects on the go.       | ![Status: Completed](https://via.placeholder.com/15/28A745/000000?text=+) Completed | Emily Clark          | Sept 25, 2024    |
-| **Payment Gateway**    | Integrating secure payment options for multiple projects across our platforms.   | ![Status: In Progress](https://via.placeholder.com/15/DC3545/000000?text=+) In Progress | Tom Brown            | Oct 15, 2024     |
+| **Mobile App**         | Mobile app for Apeli Solutions clients to manage their projects on the go.       | ![Status: Completed](https://via.placeholder.com/15/28A745/000000?text=+) In Progress | Livingstone Apeli          | Sept 25, 2024    |
+| **Payment Gateway**    | Integrating secure payment options for multiple projects across our platforms.   | ![Status: In Progress](https://via.placeholder.com/15/DC3545/000000?text=+) In Progress | Mark Odhiambo            | Oct 15, 2024     |
 
 ### Upcoming Projects
 
