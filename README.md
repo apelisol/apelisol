@@ -75,7 +75,7 @@ If you have any questions, feel free to reach out at **info@apelisolutions.com**
 
 ---
 
-## 🎨 Animated Banner
+## 🎨 Welcome to Apeli Solutions
 
 ![Apeli Solutions Animation](https://media.giphy.com/media/3oKIPwGrq9xyHfbHKI/giphy.gif)
 
