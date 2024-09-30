@@ -1,98 +1,168 @@
-# 🌐 Apeli Solutions
+# 🎨 Shoe E-Commerce Website
 
-<img src="https://i.ibb.co/NL3frG0/apelisolutios-removebg-preview.png" alt="Apeli Solutions Logo" style="max-width: 100px; height: auto; display: block; margin: 0 auto;"/>
+![E-commerce Website Banner](./graphics/header-image.png)
 
-Welcome to the official repository of **Apeli Solutions**! We are a team of innovative developers dedicated to building high-quality web applications, ecommerce platforms, and custom solutions for our clients. 🌟
-
----
-
-## 🚀 Current Projects
-
-### Ongoing Projects
-
-| **Project Name**      | **Description**                                                                 | **Status**        | **Assigned To**      | **Deadline**     |
-|-----------------------|---------------------------------------------------------------------------------|-------------------|----------------------|------------------|
-| **Car Rental System**  | A web-based platform to streamline car rentals, including fleet management.      | ![Status: Completed](https://via.placeholder.com/15/28A745/000000?text=+) Completed | Henry Otieno             | Sept 15, 2024    |
-| **E-commerce Website** | Building a modern, responsive ecommerce site for selling shoes.                  | ![Status: In Progress](https://via.placeholder.com/15/DC3545/000000?text=+) In Progress | Emmaculate Emali, Team     | Oct 10, 2024     |
-| **CRM System**         | Developing a customer relationship management tool for internal use.             | ![Status: Pending](https://via.placeholder.com/15/FFC107/000000?text=+) Pending | Mike Johnson         | Nov 5, 2024      |
-| **Mobile App**         | Mobile app for Apeli Solutions clients to manage their projects on the go.       | ![Status: Completed](https://via.placeholder.com/15/28A745/000000?text=+) In Progress | Livingstone Apeli          | Sept 25, 2024    |
-| **Payment Gateway**    | Integrating secure payment options for multiple projects across our platforms.   | ![Status: In Progress](https://via.placeholder.com/15/DC3545/000000?text=+) In Progress | Mark Odhiambo            | Oct 15, 2024     |
-
-### Upcoming Projects
-
-| **Project Name**           | **Description**                                                                                     | **Status**       | **Planned Start Date** | **Deadline**     |
-|----------------------------|-----------------------------------------------------------------------------------------------------|------------------|------------------------|------------------|
-| **Freelancing Platform**    | A marketplace connecting freelancers and clients for various gigs, complete with payment integration. | 🔵 Planned       | Oct 20, 2024            | Dec 20, 2024     |
-| **Betting Site**            | Developing a betting platform with real-time odds, secure payments, and an intuitive user interface. | 🔵 Planned       | Nov 1, 2024             | Jan 31, 2025     |
-| **School Management System**| A system to manage student enrollment, attendance, grading, and teacher-student interactions.        | 🔵 Planned       | Nov 15, 2024            | Feb 15, 2025     |
-| **Company Portfolios**      | Web-based portfolios for companies to showcase their services, projects, and team.                   | 🔵 Planned       | Dec 1, 2024             | Jan 15, 2025     |
+> **Developed by: Intern Development Team**  
+> **Lead Developer:** Tonny Okubasu  
+> **Project Manager:** Emmaculate Emali
 
 ---
 
-## 🛠 Technologies We Use
+## 🚀 Project Overview
 
-![Technologies](https://via.placeholder.com/600x100?text=HTML+CSS+JavaScript+PHP+MySQL)
-
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: PHP, Node.js, Python
-- **Database**: MySQL, PostgreSQL
-- **Version Control**: Git, GitHub
-- **Tools**: Docker, Jenkins, VS Code, Figma
+Welcome to the Shoe E-Commerce Website project! Our goal is to create a responsive, intuitive, and scalable shoe-selling platform. This README file will guide you through the setup process, the architecture, and the cool features of this project.
 
 ---
 
-## 👥 Team Collaboration
+## 🛠️ Technologies Used
 
-### How We Collaborate Effectively
-
-- **GitHub**: We use GitHub for version control to ensure all code contributions are tracked and merged seamlessly.
-- **Pull Requests (PR)**: Each developer works on a feature branch and submits pull requests for code reviews.
-- **Task Management**: We use Trello and GitHub Issues for task tracking, assignment, and management.
-- **Code Reviews**: All code must be peer-reviewed before merging to maintain code quality.
-- **Daily Standups**: Our team holds daily standups to discuss progress, blockers, and upcoming tasks.
-
-![Teamwork](https://via.placeholder.com/600x200?text=Teamwork+Makes+the+Dream+Work)
+| Tech Stack | Description |
+|------------|-------------|
+| **PHP 8**  | Backend, handling core e-commerce functionalities. |
+| **MySQL**  | Database for storing product, user, and order details. |
+| **HTML/CSS/JS**  | Frontend development. |
+| **XAMPP**  | Local development environment. |
+| **GitHub**  | Version control. |
 
 ---
 
-## 📅 Project Milestones
+## 🛒 Features
 
-We adhere to an Agile methodology, focusing on continuous delivery and flexibility. Below are some of the milestones for the ongoing and upcoming projects.
-
-| **Milestone**            | **Expected Completion** |
-|--------------------------|-------------------------|
-| UI/UX Design Completion   | Sept 20, 2024           |
-| Backend API Development   | Oct 5, 2024             |
-| Frontend Integration      | Oct 15, 2024            |
-| User Testing              | Oct 25, 2024            |
-| Final Launch              | Nov 10, 2024            |
+| Feature                 | Description |
+|-------------------------|-------------|
+| **Dynamic Product Listings**  | Browse and search through shoes with filters like size, price, brand, etc. |
+| **Cart Management**          | Real-time cart updates, without page reloads. |
+| **User Accounts**            | Secure authentication for users. |
+| **Admin Dashboard**          | Manage inventory, orders, and product listings. |
+| **Payment Integration**      | Stripe and PayPal payment options. |
 
 ---
 
-## 📧 Contact Us
+## 🎨 Visual Flow of Website
 
-If you have any questions, feel free to reach out at **info@apelisolutions.com** or contact the respective project manager.
+### 🔗 User Journey
+```mermaid
+graph TD;
+    A[Landing Page] --> B[Product Listings];
+    B --> C[Product Details];
+    C --> D[Add to Cart];
+    D --> E[Checkout];
+    E --> F[Payment];
+    F --> G[Order Confirmation];
+```
 
----
-
-## 🎨 Welcome to Apeli Solutions
-
-![Apeli Solutions Animation](https://media.giphy.com/media/3oKIPwGrq9xyHfbHKI/giphy.gif)
-
----
-
-## 🎉 Fun Facts About Us!
-
-- 💼 We have completed over **50+ projects** since our inception.
-- 🌍 Our team comprises members from **5 different countries**!
-- 🏆 We have been awarded **Best Startup of the Year** in 2023.
+![Website Flowchart](./graphics/website-flow.png)
 
 ---
 
-## 🌟 Watch Our Live Demos
+## 📊 Skills Used
 
-[![Watch the demo](https://img.youtube.com/vi/Kx4y9c7w2JQ/0.jpg)](https://www.youtube.com/watch?v=Kx4y9c7w2JQ)
+### Frontend Development:
+- Building a responsive UI with **HTML/CSS/Bootstrap**.
+- Implementing **JavaScript** for interactivity and dynamic updates.
+  
+### Backend Development:
+- Using **PHP 8** for server-side logic and connecting to MySQL.
+- Setting up APIs for product management.
 
-Click the image above to view our live demo!
+### Database Management:
+- **MySQL** for data storage.
+- Database schema designed to store products, users, orders, and reviews.
+
+![Skills Breakdown](./graphics/skills-chart.png)
 
 ---
+
+## 🖥️ Setup Instructions
+
+> This project is configured to run on **XAMPP**. Make sure you have XAMPP installed on your machine.
+
+1. **Clone the Repository**  
+   Run the following command to clone the project to your local environment:
+   ```bash
+   git clone https://github.com/your-repo/shoe-ecommerce.git
+   ```
+
+2. **Move the project folder** to `XAMPP`’s `htdocs` directory:
+   ```bash
+   mv shoe-ecommerce /path/to/xampp/htdocs/
+   ```
+
+3. **Start Apache and MySQL** from the XAMPP control panel.
+
+4. **Create the database**:
+   - Open **phpMyAdmin** and create a database named `shoe_ecommerce`.
+
+5. **Configure environment settings** in the `.env` file.
+
+6. **Run database migrations**:
+   ```bash
+   php artisan migrate
+   ```
+
+7. **Access the application** via [http://localhost/shoe-ecommerce](http://localhost/shoe-ecommerce).
+
+![Setup Preview](./graphics/setup-preview.gif)
+
+---
+
+## 🎞️ Animated Demo
+
+Here’s a preview of how some of the key features work:
+
+### 1. **Adding Products to Cart**  
+![Cart Animation](./graphics/add-to-cart.gif)
+
+### 2. **Checkout Process**  
+![Checkout Animation](./graphics/checkout.gif)
+
+### 3. **Sorting and Filtering**  
+![Filtering Animation](./graphics/filtering.gif)
+
+---
+
+## 📊 Data & Graphical Analysis
+
+We’ve integrated basic analytics into the admin dashboard for tracking:
+
+- **Total Sales**
+- **User Growth**
+- **Top Products**
+
+Below are examples of the graphical data representations from the platform’s analytics:
+
+![Sales Graph](./graphics/sales-graph.png)
+![User Growth Chart](./graphics/user-growth.gif)
+
+---
+
+## 🧑‍💻 Contributing
+
+We follow **Git Flow** for our development process.
+
+- **Fork** this repo.
+- **Clone** it to your machine.
+- Create a new **feature branch**.
+- Push your work and create a **Pull Request**.
+
+---
+
+## 🔮 Future Enhancements
+
+Here are some ideas for future releases:
+- **AI-powered recommendations**.
+- **Customer reviews and ratings**.
+- **Wishlist feature**.
+- **Mobile app integration** with the website’s backend.
+
+---
+
+## 📷 Gallery
+
+Check out some of the design previews:
+
+![Mobile Design](./graphics/mobile-design.png)
+![Desktop Layout](./graphics/desktop-design.png)
+
+---
+
