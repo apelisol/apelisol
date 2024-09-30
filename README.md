@@ -34,7 +34,7 @@ Welcome to the Shoe E-Commerce Website project! Our goal is to create a responsi
 | **Cart Management**          | Real-time cart updates, without page reloads. |
 | **User Accounts**            | Secure authentication for users. |
 | **Admin Dashboard**          | Manage inventory, orders, and product listings. |
-| **Payment Integration**      | Stripe and PayPal payment options. |
+| **Payment Integration**      | Mpesa, Debit/Credit cards, Stripe and PayPal payment options. |
 
 ---
 
@@ -106,7 +106,7 @@ graph TD;
 
 ---
 
-## 🎞️ Animated Demo
+## 🎞️ Preview
 
 Here’s a preview of how some of the key features work:
 
